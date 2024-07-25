@@ -3,7 +3,7 @@
 This repository contains implementations of various machine learning algorithms along with their use cases and sample datasets. Each algorithm is demonstrated with a practical example to help you understand how it works and when to use it.
 
 ## Table of Contents
-
+1. [Data Preprocessing](#data-preprocessing)
 1. [Linear Regression](#linear-regression)
 2. [Logistic Regression](#logistic-regression)
 3. [Decision Trees](#decision-trees)
@@ -14,6 +14,15 @@ This repository contains implementations of various machine learning algorithms 
 8. [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
 9. [Neural Networks](#neural-networks)
 10. [Gradient Boosting](#gradient-boosting)
+
+## Data Preprocessing
+
+### Description
+Linear Regression is used to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data.
+
+### Use Case
+- Predicting house prices based on features like size, number of bedrooms, etc.
+- Forecasting sales based on historical data.
 
 ## Linear Regression
 

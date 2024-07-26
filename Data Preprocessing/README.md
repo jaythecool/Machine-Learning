@@ -16,7 +16,7 @@ This repository contains a Jupyter Notebook that demonstrates essential data pre
 
 1. Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/your_username/DataPreprocessingTools.git
+   git clone https://github.com/jaythecool/DataPreprocessingTools.git
 2. Navigate to the project directory.
    ```sh
    cd DataPreprocessingTools
